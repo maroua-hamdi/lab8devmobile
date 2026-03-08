@@ -153,4 +153,4 @@ exécutés hors du thread principal, garantissant une interface fluide et
 réactive. Le Toast affiché instantanément lors d'un calcul en cours
 confirme que l'UI n'est jamais bloquée.
 
-======================================================
+
