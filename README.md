@@ -1,8 +1,8 @@
 
-  LAB 8 — Threads, AsyncTask et Handler
+ LAB 8 — Threads, AsyncTask et Handler
 
-  
-======================================================
+Cours : Programmation Mobile — Android avec Java
+--------------------------------------------------
 
 
 1. APERCU DU LAB
